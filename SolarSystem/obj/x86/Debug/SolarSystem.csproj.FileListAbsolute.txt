@@ -1,0 +1,11 @@
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.MainForm.resources
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.Properties.Resources.resources
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.exe
+\\csfs\home$\bojcov_a_a\profile\my documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.pdb
+C:\Users\Андрей\Dropbox\Универ\Задачи\2 курс\SolarSystem(Изменение координат по кругу)\SolarSystem\obj\x86\Debug\SolarSystem.exe
+C:\Users\Андрей\Dropbox\Универ\Задачи\2 курс\SolarSystem(Изменение координат по кругу)\SolarSystem\obj\x86\Debug\SolarSystem.pdb
